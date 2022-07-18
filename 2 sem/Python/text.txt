@@ -1,0 +1,9 @@
+3
+0 2 5 
+2 0 0 
+5 0 0 
+Colors_Edges:
+0 1 Yellow
+0 2 Yellow
+1 0 Yellow
+2 0 Yellow
