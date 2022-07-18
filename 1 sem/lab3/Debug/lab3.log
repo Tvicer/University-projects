@@ -1,0 +1,3 @@
+﻿  main.c
+D:\Visual Studio\lab3\main.c(191,23): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+  lab3.vcxproj -> D:\Visual Studio\lab3\Debug\lab3.exe

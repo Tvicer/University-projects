@@ -1,0 +1,12 @@
+﻿  main.c
+D:\Visual Studio\lab4\main.c(39,12): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+D:\Visual Studio\lab4\main.c(39,12): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+D:\Visual Studio\lab4\main.c(39,12): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+D:\Visual Studio\lab4\main.c(39,12): message : этот аргумент используется в качестве размера буфера
+D:\Visual Studio\lab4\main.c(56,14): warning C4013: calloc: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Visual Studio\lab4\main.c(56,30): warning C4047: =: "int *" отличается по уровням косвенного обращения от "int"
+D:\Visual Studio\lab4\main.c(77,14): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+D:\Visual Studio\lab4\main.c(77,14): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+D:\Visual Studio\lab4\main.c(77,14): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+D:\Visual Studio\lab4\main.c(77,14): message : этот аргумент используется в качестве размера буфера
+  lab4.vcxproj -> D:\Visual Studio\lab4\Debug\lab4.exe
