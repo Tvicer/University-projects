@@ -1,0 +1,4 @@
+C:\Users\Tvicer\source\repos\Kypca4\Debug\Kypca4.exe
+C:\Users\Tvicer\source\repos\Kypca4\Debug\Kypca4.pdb
+D:\Visual Studio\Kypca4\Debug\Kypca4.exe
+D:\Visual Studio\Kypca4\Debug\Kypca4.pdb
