@@ -64,59 +64,6 @@ int main()
 
         if (t == 3)
         {
-            /*int n = 0, mx = 0, k = 0;
-            printf("Input in range of array: ");
-            scanf_s("%d", &n);
-            if (n <= 0)
-            {
-                printf("Input error!");
-                return -1;
-            }
-            int* a, * b, * mxm;
-            a = (int*)calloc(n, sizeof(int));
-            b = (int*)calloc(n, sizeof(int));
-            mxm = (int*)calloc(n, sizeof(int));
-            for (int i = 0; i < n; i++)
-            {
-                printf("Input %d element of array: ", i + 1);
-                scanf_s("%d", &a[i]);
-            }
-            for (int i = 0; i < n; i++)
-            {
-                b[i] = 0;
-                mxm[i] = 0;
-            }
-
-            for (int j = 0; j < n; j++)
-            {
-                if (a[j] < a[j + 1])
-                {
-                    b[j] = a[j];
-                    k++;
-                }
-                else
-                {
-                    if (k > mx)
-                    {
-                        b[j] = a[j];
-                        for (int i = 0; i < n; i++)
-                            mxm[i] = 0;
-                        mx = k + 1;
-                        for (int i = 0; i < n; i++)
-                            mxm[i] = b[i];
-                        for (int i = 0; i < n; i++)
-                            b[i] = 0;
-                        k = 0;
-                    }
-                }
-            }
-
-            for (int i = 0; i < n; i++)
-            {
-                if (mxm[i] != 0)
-                    printf("%d ", mxm[i]);
-            }
-            printf("\n\n");*/
 
 
             int size, i = 1, maxsequence = 0, sequence = 0, i1 = 1, i2 = 1, j = 1;
