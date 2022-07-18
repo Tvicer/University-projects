@@ -1,0 +1,13 @@
+﻿  main.c
+D:\Visual Studio\1-2 sem\lab2_1\StackArray.c(16,29): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Visual Studio\1-2 sem\lab2_1\StackArray.c(27,31): warning C4013: realloc: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Visual Studio\1-2 sem\lab2_1\main.c(88,13): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Visual Studio\1-2 sem\lab2_1\main.c(139,25): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Visual Studio\1-2 sem\lab2_1\main.c(158,29): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Visual Studio\1-2 sem\lab2_1\StackArray.c(48): warning C4716: top: должна возвращать значение
+D:\Visual Studio\1-2 sem\lab2_1\StackArray.c(41): warning C4716: pop: должна возвращать значение
+D:\Visual Studio\1-2 sem\lab2_1\StackArray.c(18): warning C4716: init: должна возвращать значение
+D:\Visual Studio\1-2 sem\lab2_1\StackArray.c(31): warning C4716: push: должна возвращать значение
+D:\Visual Studio\1-2 sem\lab2_1\StackArray.c(81): warning C4716: clear_top: должна возвращать значение
+D:\Visual Studio\1-2 sem\lab2_1\main.c(51): warning C4715: count: значение возвращается не при всех путях выполнения
+  lab2_1.vcxproj -> D:\Visual Studio\1-2 sem\lab2_1\Debug\lab2_1.exe

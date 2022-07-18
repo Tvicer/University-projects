@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Visual Studio\lab2_2\funcks.h(112,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Visual Studio\lab2_2\funcks.h(115,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab2_2.vcxproj -> D:\Visual Studio\lab2_2\Debug\lab2_2.exe
