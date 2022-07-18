@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Visual Studio\3 sem\NaPare\Source.cpp(29,26): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Visual Studio\3 sem\NaPare\Source.cpp(45,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\3 sem\NaPare\Source.cpp(65,27): warning C4018: >: несоответствие типов со знаком и без знака
+  NaPare.vcxproj -> D:\Visual Studio\3 sem\NaPare\Debug\NaPare.exe
