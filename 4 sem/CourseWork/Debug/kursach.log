@@ -1,0 +1,5 @@
+﻿  Handler.cpp
+  Source.cpp
+D:\Visual Studio\4 sem\kursach\Source.cpp(94,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  kursach.vcxproj -> D:\Visual Studio\4 sem\kursach\Debug\kursach.exe

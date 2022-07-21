@@ -1,0 +1,16 @@
+{% extends 'main/base.html' %}
+
+{% block title %}
+{{ title }}
+{% endblock %}
+
+{% block content %}
+    <h1>Про игры</h1>
+    <a class="btn btn-success" href="{% url 'create_game' %}">Добавить новый пост про игры</a>
+    {% for el in games %}
+        <div class="alert alert-warning mt-2">
+            <h3>{{el.user}}</h3>
+            <p>{{el.text}}</p>
+        </div>
+    {% endfor %}
+{% endblock %}
